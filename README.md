@@ -1,7 +1,7 @@
 # NEP
 ---------------
 
-Code for the paper "...." KDD 2019
+Code for the paper " Neural Embedding Propagation on Heterogeneous Networks" ICDM 2019
 
 ### Required Inputs
 ---------------
