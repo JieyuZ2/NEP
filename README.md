@@ -3,9 +3,9 @@
 
 Code for the paper " Neural Embedding Propagation on Heterogeneous Networks" ICDM 2019
 
-### Required Inputs
+### Inputs
 ---------------
-see the **data.zp**
+See **data.zip** as am example.
 
 
 ### Command
@@ -16,7 +16,7 @@ To train NEP model with default setting, please first unzip **data.zip** and the
 python3 nep/main.py
 ```
 
-You can specify the parameters. The variables names are self-explained.
+You can specify the parameters. The variable names are self-explaining.
 
 
 ### Key Parameters
@@ -35,6 +35,14 @@ You can specify the parameters. The variables names are self-explained.
 ## Citation
 ---------------
 
-Please cite the following two papers if you are using our tool. Thanks!
+Please cite the following paper if you find this repo useful. Thanks!
 
+```
+@inproceedings{yang2019neural,
+	Author = {Yang, Carl and Zhang, Jieyu and Han, Jiawei},
+	Booktitle = {ICDM},
+	Organization = {IEEE},
+	Title = {Neural embedding propagation on heterogeneous networks},
+	Year = {2019}}
+```
 
