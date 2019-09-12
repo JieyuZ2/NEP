@@ -1,7 +1,16 @@
-# NEP
----------------
+## Implementation of *NEP*, ICDM 2019.
 
-Code for the paper " Neural Embedding Propagation on Heterogeneous Networks" ICDM 2019
+Please cite the following work if you find the code useful.
+
+```
+@inproceedings{yang2019neural,
+	Author = {Yang, Carl and Zhang, Jieyu and Han, Jiawei},
+	Booktitle = {ICDM},
+	Title = {Neural embedding propagation on heterogeneous networks},
+	Year = {2019}
+}
+```
+Contact: Carl Yang (yangji9181@gmail.com)
 
 ### Inputs
 ---------------
