@@ -40,18 +40,3 @@ You can specify the parameters. The variable names are self-explaining.
 **superv_ratio**: how many of train data to be exposed to model (used in experiment of label efficiency).
 
 **path_max_length**: the maximum length of a pattern (used in the experiment of path length).
-
-## Citation
----------------
-
-Please cite the following paper if you find this repo useful. Thanks!
-
-```
-@inproceedings{yang2019neural,
-	Author = {Yang, Carl and Zhang, Jieyu and Han, Jiawei},
-	Booktitle = {ICDM},
-	Organization = {IEEE},
-	Title = {Neural embedding propagation on heterogeneous networks},
-	Year = {2019}}
-```
-
